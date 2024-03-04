@@ -4,6 +4,6 @@ A few addons for log4cl Common Lisp logging library.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/40ants/log4cl-extras.git |
-| commit  | 2895f00                                         |
+| commit  | 2ce3847                                         |
 | systems | log4cl-extras                                   |
 |---------+-------------------------------------------------|
