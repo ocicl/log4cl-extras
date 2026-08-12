@@ -7,3 +7,4 @@ A few addons for log4cl Common Lisp logging library.
 | commit  | a22ae81                                         |
 | systems | log4cl-extras                                   |
 |---------+-------------------------------------------------|
+ 
